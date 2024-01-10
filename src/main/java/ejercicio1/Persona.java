@@ -28,7 +28,7 @@ public class Persona {
     public void setEdad(int edad) {
         this.edad = edad;
     }
-    public void cumplirAnyos(){ this.edad++;}
+    protected void cumplirAnyos(){ this.edad++;}
     public void printDNI(){
         System.out.println("Desde Persona imprimo el DNI: " + DNI);
     }

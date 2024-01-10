@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2339e63a-33c3-4e3e-a9cc-751d46abc2ed" name="Changes" comment="Commit" />
+    <list default="true" id="2339e63a-33c3-4e3e-a9cc-751d46abc2ed" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio1/Alumno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio1/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio1/Persona.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704905470932</updated>
-      <workItem from="1704905472025" duration="345000" />
+      <workItem from="1704905472025" duration="2046000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <option name="closed" value="true" />
@@ -62,7 +66,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704905721207</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1704905825526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704905825526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
